@@ -1,3 +1,3 @@
 ## Hello there 👋
 
-Rahul here, currently a software engineer with experties in python.
+GenAI, Data science, Software Engineering, Product Engineering
